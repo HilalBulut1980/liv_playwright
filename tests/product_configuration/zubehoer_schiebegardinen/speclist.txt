@@ -1,0 +1,2 @@
+tests/product_configuration/zubehoer_schiebegardinen/configure_schiebegardinezubehoer_magnetclip.spec.js
+tests/product_configuration/zubehoer_schiebegardinen/configure_schiebegardinezubehoer_magnetgriff_alu.spec.js

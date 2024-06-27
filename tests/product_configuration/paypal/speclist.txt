@@ -1,0 +1,7 @@
+tests/product_configuration/paypal/configure_cosiflorplissee_giropay.spec.js
+tests/product_configuration/paypal/configure_cosiflorplissee_paypal.spec.js
+tests/product_configuration/paypal/configure_cosiflorplissee_paypalexpress.spec.js
+tests/product_configuration/paypal/configure_doppelrollo_kreditkarte.spec.js
+tests/product_configuration/paypal/configure_jalousie_sofort.spec.js
+tests/product_configuration/paypal/configure_raffrollo_rechnung.spec.js
+tests/product_configuration/paypal/configure_rollo_sepa.spec.js

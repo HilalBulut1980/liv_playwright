@@ -1,0 +1,7 @@
+tests/product_configuration/doppelrollo/configure_doppelrollo_mini_mk_holzfenster.spec.js
+tests/product_configuration/doppelrollo/configure_doppelrollo_mini_mk_kunststofffenster.spec.js
+tests/product_configuration/doppelrollo/configure_doppelrollo_mini_ok.spec.js
+tests/product_configuration/doppelrollo/configure_doppelrollo_mk_decke.spec.js
+tests/product_configuration/doppelrollo/configure_doppelrollo_mk_wand.spec.js
+tests/product_configuration/doppelrollo/configure_doppelrollo_ok_I.spec.js
+tests/product_configuration/doppelrollo/configure_doppelrollo_ok_II.spec.js

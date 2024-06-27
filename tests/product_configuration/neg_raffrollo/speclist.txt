@@ -1,0 +1,4 @@
+tests/product_configuration/neg_raffrollo/configure_neg_raffrollo_max_breite.spec.js
+tests/product_configuration/neg_raffrollo/configure_neg_raffrollo_max_hoehe.spec.js
+tests/product_configuration/neg_raffrollo/configure_neg_raffrollo_min_breite.spec.js
+tests/product_configuration/neg_raffrollo/configure_neg_raffrollo_min_hoehe.spec.js

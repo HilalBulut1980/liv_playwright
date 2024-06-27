@@ -1,0 +1,3 @@
+tests/product_configuration/neg_vatid/configure_neg_vatid_at_bg_gast_new_address.spec.js
+tests/product_configuration/neg_vatid/configure_neg_vatid_at_gast_same_address.spec.js
+tests/product_configuration/neg_vatid/configure_neg_vatid_sk_gast_same_address.spec.js

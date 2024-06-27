@@ -1,0 +1,4 @@
+tests/product_configuration/neg_paypal/configure_neg_giropay_canceled_payment.spec.js
+tests/product_configuration/neg_paypal/configure_neg_giropay_failed_payment.spec.js
+tests/product_configuration/neg_paypal/configure_neg_sofortpay_canceled_payment.spec.js
+tests/product_configuration/neg_paypal/configure_neg_sofortpay_failed_payment.spec.js

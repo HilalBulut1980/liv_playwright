@@ -1,0 +1,4 @@
+tests/product_configuration/user/configure_login_pricecheck_at.spec.js
+tests/product_configuration/user/configure_login_pricecheck_ch.spec.js
+tests/product_configuration/user/configure_login_pricecheck_hu.spec.js
+tests/product_configuration/user/configure_login_pricecheck_mt.spec.js
