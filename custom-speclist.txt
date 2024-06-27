@@ -1,0 +1,2 @@
+tests/product_configuration/plissee_basis/configure_basis_vs1_direkt.spec.js
+tests/product_configuration/plissee_cosiflor/configure_cosiflor_f1_direkt.spec.js
